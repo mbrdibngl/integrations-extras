@@ -17,7 +17,7 @@ keywords = [
     "traefik",
 ]
 authors = [
-    { email = "renaudhager@users.noreply.github.com" },
+    { email = "@renaudhager" },
 ]
 classifiers = [
     "Development Status :: 5 - Production/Stable",
